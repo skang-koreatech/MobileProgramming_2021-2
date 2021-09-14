@@ -1,5 +1,5 @@
 # MobileProgramming_2021-2
-2021년 2학기 모바일 프로그래밍 (02분반) 예제 코드 저장소
+한국기술교육대학교 컴퓨터공학부 2021년 2학기 모바일 프로그래밍 (02분반) 예제 코드 저장소
 
 ### Development Environment
 - Android Studio: https://developer.android.com/studio/index.html
