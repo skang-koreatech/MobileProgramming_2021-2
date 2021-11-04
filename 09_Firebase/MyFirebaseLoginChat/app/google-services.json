@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "484475384035",
+    "project_id": "loginchatapp-f05da",
+    "storage_bucket": "loginchatapp-f05da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484475384035:android:e96f04a0ba56532aa715d6",
+        "android_client_info": {
+          "package_name": "kr.ac.koreatech.swkang.myfirebaseloginchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484475384035-5k3t22v9599v70joi1ivrothanolfqr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.ac.koreatech.swkang.myfirebaseloginchat",
+            "certificate_hash": "d6e56799c8a0b25827bba17894b4895ce340b4ee"
+          }
+        },
+        {
+          "client_id": "484475384035-0cf71plkmkgl8utf8rfalsskp8kkru8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJKtgSmzRhgqkFNzGl5N364Sa5Fc25JYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484475384035-0cf71plkmkgl8utf8rfalsskp8kkru8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
